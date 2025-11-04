@@ -1,0 +1,1 @@
+IA Generativa é um campo da inteligência artificial que se foca na criação de novos conteúdos, como texto e imagens. A arquitetura AGE é um exemplo de sistema que utiliza IA Generativa
